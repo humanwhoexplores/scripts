@@ -74,9 +74,9 @@ plugins=(
 		zsh-syntax-highlighting
 		zsh-completions
 		zsh-autosuggestions
-        brew
-        osx
-        web-search
+       		 brew
+        	osx
+        	web-search
 )
 autoload -U compinit && compinit
 
