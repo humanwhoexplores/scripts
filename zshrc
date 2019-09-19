@@ -74,7 +74,7 @@ plugins=(
 		zsh-syntax-highlighting
 		zsh-completions
 		zsh-autosuggestions
-       		 brew
+       		brew
         	osx
         	web-search
 )
